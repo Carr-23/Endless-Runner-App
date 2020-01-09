@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eb159e33d6aa2884f9f6217dcd88772d
+timeCreated: 1534184001
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Secret Code
+  fontNames:
+  - Secret Code
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
